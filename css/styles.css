@@ -1,0 +1,54 @@
+.head h1{
+    font-weight: 800;
+    font-family: fantasy;
+    letter-spacing: 2px;
+}
+.box{
+    min-height: 65vh;
+    box-shadow: 0px 0px 15px -2px black;
+    border-radius: 20px;
+    background-color:lightgoldenrodyellow;
+}
+.box-head{
+    height: 15vh;
+    font-weight: 800;
+    font-size: 3rem;
+    color:teal;
+    text-shadow: 1px 1px 1px black;
+}
+.title{
+    height:10vh;
+}
+
+.timer{
+    height:34vh;
+    background-color: lightsteelblue;
+}
+.tm,.td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7rem;
+    font-weight: 800;
+    color:darkslategrey;
+    text-shadow: 1px 1px 1px black;
+}
+.td{
+    color: goldenrod;
+}
+.btn-card{
+    height: 10vh;
+}
+.fn{
+    width:80%;
+    padding: 10px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.t-1,.t-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 600;
+}
