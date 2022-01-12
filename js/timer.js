@@ -43,7 +43,7 @@ flag=false;
            clearInterval(id);
            flag=false;
        }          
-    },5);
+    },1000);
 }
 });
 
